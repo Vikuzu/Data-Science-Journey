@@ -7,3 +7,5 @@ This is how I progressed towards data science
 ![image](https://user-images.githubusercontent.com/77054201/213547463-b2046c03-e180-4415-9de8-a6e62b787f4d.png)
 ![image](https://user-images.githubusercontent.com/77054201/213547600-64e59f0c-18ef-4d50-95b5-691e5977e223.png)
 ![image](https://user-images.githubusercontent.com/77054201/213547686-471f1f5c-9971-444f-abb7-f5b6dc5ba37c.png)
+my own method which became successfull after 20+ attempt
+![image](https://user-images.githubusercontent.com/77054201/213551165-81cbf24f-8cdd-4fb3-b781-1fbfc862d62f.png)
